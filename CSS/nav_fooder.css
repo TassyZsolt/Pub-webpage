@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+main{
+    margin-top: 2%;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-bottom: 1000px;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    text-decoration: none;
+    width: 16.655%;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+    background-color: #006600;
+}
+.active{
+    background-color: #006600;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}

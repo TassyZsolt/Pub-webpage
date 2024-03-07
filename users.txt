@@ -1,0 +1,1 @@
+a:6:{s:8:"username";s:7:"kocsis8";s:4:"neme";s:6:"Férfi";s:3:"age";s:2:"30";s:4:"pass";s:7:"kocsis1";s:6:"repass";s:7:"kocsis1";s:3:"img";s:24:"./img/profil/default.png";}

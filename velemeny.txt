@@ -1,0 +1,4 @@
+a:4:{s:3:"nev";s:6:"bigmeo";s:3:"ido";s:10:"2023.04.16";s:6:"szoveg";s:15:"hellokabeloka ";s:3:"kep";s:24:"./img/profil/default.png";}
+a:4:{s:3:"nev";s:6:"bigmeo";s:3:"ido";s:10:"2023.04.16";s:6:"szoveg";s:7:"mégegy";s:3:"kep";s:24:"./img/profil/default.png";}
+a:4:{s:3:"nev";s:6:"bigmeo";s:3:"ido";s:10:"2023.04.16";s:6:"szoveg";s:7:"pereces";s:3:"kep";s:24:"./img/profil/default.png";}
+a:4:{s:3:"nev";s:4:"helo";s:3:"ido";s:10:"2023.04.16";s:6:"szoveg";s:6:"kekw ";s:3:"kep";s:21:"/img/profil/adolf.jpg";}
